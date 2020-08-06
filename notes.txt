@@ -1,0 +1,8 @@
+1 - localizador de doador
+2 - Bingo de igreja
+3 - chatbot pra detectar a linguagem 
+	- dialogflow com whatsup
+	- as horas
+4 - criptomoeda - SenaiCoin
+5 - recriar o ifood
+6 - gamificar a relação aluno/aula/professor
